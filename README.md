@@ -17,5 +17,5 @@ Patch 4-7 meliputi topik yang dibahas di hari kedua:
 Patch 8 meliputi topik yang dibahas di hari ketiga:
 1. Melakukan pendeteksi objek dengan input Kinect
 
-Patch-patch ini menggunakan objek eksternal Max/MSP yaitu jit.cv dan jit.freenect yang bisa didapatkan di ![jmpelletier.com](http://www.jmpelletier.com).
+Patch-patch ini menggunakan objek eksternal Max/MSP yaitu jit.cv dan jit.freenect yang bisa didapatkan di [jmpelletier.com](http://www.jmpelletier.com).
 Untuk Kinect bisa disesuaikan dengan objek lain yang kompatibel dengan OS yang digunakan
